@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "URL Display",
+  "version": "1.1",
+
+  "description": "Displays the current URL in the webpage's top-right corner.",
+
+  "permissions": ["<all_urls>", "contextualIdentities", "tabs"],
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["urlDisplay.js"]
+    }
+  ]
+}
+

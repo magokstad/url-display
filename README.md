@@ -16,10 +16,10 @@ interface.
 
 ### How to use this extension 
 
-To use this extension, simply install it in your browser and it will start
+To use this extension, simply install it in your browser (Mozilla store WIP) and it will start
 working automatically. When you switch to a new tab, the current hostname will
 be briefly displayed on top of the tab. The display time can be customized in
-the extension settings.
+the extension settings (WIP).
 
 ### Contributing
 

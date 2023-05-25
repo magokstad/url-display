@@ -1,5 +1,7 @@
 
-# URL Display (VERY WIP) 
+# URL Display (VERY WIP)
+
+Hallo
 
 URL Display is a browser extension that briefly displays the current hostname on
 top of the current tab. This extension is currently a work in progress and is
@@ -14,7 +16,7 @@ tab. This extension was created to briefly display the current hostname on top
 of the current tab, making it easier to see the URL without cluttering the
 interface.
 
-### How to use this extension 
+### How to use this extension
 
 To use this extension, simply install it in your browser (Mozilla store WIP) and it will start
 working automatically. When you switch to a new tab, the current hostname will

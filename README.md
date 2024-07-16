@@ -2,8 +2,7 @@
 # URL Display (VERY WIP) 
 
 URL Display is a browser extension that briefly displays the current hostname on
-top of the current tab. This extension is currently a work in progress and is
-being actively developed.
+top of the current tab. This extension is currently a work in progress.
 
 ### Why does this extension exist?
 
